@@ -1,0 +1,36 @@
+Cloud Server
+
+View Data Owners 
+,View End Users
+,View Data Fragments
+,View File Requests
+,View Attackers
+,View Transactions
+,View Data Replication Found Details 
+,View Time Delay Results 
+,View Throughput Results 
+,View Data Replication Results
+
+
+End User
+
+Request File 
+,View File Response
+,Download File
+
+
+Data Owner
+
+Upload Data 
+,View Your Files 
+,Check Data integrity 
+,Check Data Replication 
+,Update Block 
+
+
+
+
+
+
+
+
